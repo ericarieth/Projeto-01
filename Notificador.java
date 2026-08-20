@@ -1,4 +1,4 @@
-public class Notificador (
+public class Notificador {
     
     private NotificacaoStrategy estrategia;
 
